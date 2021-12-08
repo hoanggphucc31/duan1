@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="redled.DebugData" xml:space="preserve">
+    <value>001,956,998,1,255,76,76,76,255,0,0,0,1,0,0,33,33,54,0,448,4,466,17,476,46,498,50,510,47,608,68,704,109,793,169,872,245,933,333,976,429,998,527,998,623,976,711,933,787,872,847,793,888,704,908,608,907,510,909,498,940,476,953,466,956,448,924,54,915,26,893,6,865,0,90,0,62,6,42,26,33,54,,1,255,0,0,0,255,0,0,0,1,0,0,23,409,186,548,186,640,210,724,257,793,323,844,404,872,498,889,462,917,435,887,57,880,42,865,36,90,36,77,42,69,57,37,432,68,459,85,495,113,403,162,322,233,255,315,210,409,186,,1,255,204,204,204,255,0,0,0,1,0,0,27,423,162,423,214,334,241,254,287,190,355,145,436,122,527,123,620,147,709,195,789,260,855,342,901,431,925,524,925,613,901,695,855,761,789,808,709,833,620,835,527,811,436,765,355,701,287,621,241,532,214,532,162,423,162,,3,255,0,0,0,0,255,255,255,1,1,0,2,163,251,629,630,,1,255,127,127,127,0,255,255,255,1,0,0,17,177,566,198,452,263,350,365,286,478,265,591,286,694,350,759,452,780,566,759,679,694,781,591,847,478,868,365,847,263,781,198,679,177,566,,3,255,181,181,181,0,255,255,255,1,1,0,2,235,323,368,368,,3,255,209,209,209,0,255,255,255,1,1,0,2,265,353,249,248,</value>
+  </data>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="yellowled.DebugData" xml:space="preserve">
+    <value>001,956,998,1,255,76,76,76,255,0,0,0,1,0,0,33,33,54,0,448,4,466,17,476,46,498,50,510,47,608,68,704,109,793,169,872,245,933,333,976,429,998,527,998,623,976,711,933,787,872,847,793,888,704,908,608,907,510,909,498,940,476,953,466,956,448,924,54,915,26,893,6,865,0,90,0,62,6,42,26,33,54,,1,255,0,0,0,255,0,0,0,1,0,0,23,409,186,548,186,640,210,724,257,793,323,844,404,872,498,889,462,917,435,887,57,880,42,865,36,90,36,77,42,69,57,37,432,68,459,85,495,113,403,162,322,233,255,315,210,409,186,,1,255,204,204,204,255,0,0,0,1,0,0,27,423,162,423,214,334,241,254,287,190,355,145,436,122,527,123,620,147,709,195,789,260,855,342,901,431,925,524,925,613,901,695,855,761,789,808,709,833,620,835,527,811,436,765,355,701,287,621,241,532,214,532,162,423,162,,3,255,0,0,0,0,255,255,255,1,1,0,2,163,251,629,630,,1,255,127,127,127,0,255,255,255,1,0,0,17,177,566,198,452,263,350,365,286,478,265,591,286,694,350,759,452,780,566,759,679,694,781,591,847,478,868,365,847,263,781,198,679,177,566,,3,255,181,181,181,0,255,255,255,1,1,0,2,235,323,368,368,,3,255,209,209,209,0,255,255,255,1,1,0,2,265,353,249,248,</value>
+  </data>
+  <data name="greenled.DebugData" xml:space="preserve">
+    <value>001,956,998,1,255,76,76,76,255,0,0,0,1,0,0,33,33,54,0,448,4,466,17,476,46,498,50,510,47,608,68,704,109,793,169,872,245,933,333,976,429,998,527,998,623,976,711,933,787,872,847,793,888,704,908,608,907,510,909,498,940,476,953,466,956,448,924,54,915,26,893,6,865,0,90,0,62,6,42,26,33,54,,1,255,0,0,0,255,0,0,0,1,0,0,23,409,186,548,186,640,210,724,257,793,323,844,404,872,498,889,462,917,435,887,57,880,42,865,36,90,36,77,42,69,57,37,432,68,459,85,495,113,403,162,322,233,255,315,210,409,186,,1,255,204,204,204,255,0,0,0,1,0,0,27,423,162,423,214,334,241,254,287,190,355,145,436,122,527,123,620,147,709,195,789,260,855,342,901,431,925,524,925,613,901,695,855,761,789,808,709,833,620,835,527,811,436,765,355,701,287,621,241,532,214,532,162,423,162,,3,255,0,0,0,0,255,255,255,1,1,0,2,163,251,629,630,,1,255,127,127,127,0,255,255,255,1,0,0,17,177,566,198,452,263,350,365,286,478,265,591,286,694,350,759,452,780,566,759,679,694,781,591,847,478,868,365,847,263,781,198,679,177,566,,3,255,181,181,181,0,255,255,255,1,1,0,2,235,323,368,368,,3,255,209,209,209,0,255,255,255,1,1,0,2,265,353,249,248,</value>
+  </data>
+</root>

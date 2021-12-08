@@ -1,0 +1,16 @@
+D:\c#\Đèn giao thông\bin\Debug\Đèn giao thông.exe.config
+D:\c#\Đèn giao thông\bin\Debug\Đèn giao thông.exe
+D:\c#\Đèn giao thông\bin\Debug\Đèn giao thông.pdb
+D:\c#\Đèn giao thông\bin\Debug\NetToolKit.dll
+D:\c#\Đèn giao thông\bin\Debug\S7.Net.dll
+D:\c#\Đèn giao thông\bin\Debug\SKCLNET.dll
+D:\c#\Đèn giao thông\bin\Debug\SymbolFactoryDotNet.dll
+D:\c#\Đèn giao thông\bin\Debug\SymbolFactoryNetEngine.dll
+D:\c#\Đèn giao thông\obj\Debug\Đèn giao thông.csproj.AssemblyReference.cache
+D:\c#\Đèn giao thông\obj\Debug\Đèn_giao_thông.Form1.resources
+D:\c#\Đèn giao thông\obj\Debug\Đèn_giao_thông.Properties.Resources.resources
+D:\c#\Đèn giao thông\obj\Debug\Đèn giao thông.csproj.GenerateResource.cache
+D:\c#\Đèn giao thông\obj\Debug\Đèn giao thông.csproj.CoreCompileInputs.cache
+D:\c#\Đèn giao thông\obj\Debug\Đèn giao thông.csproj.CopyComplete
+D:\c#\Đèn giao thông\obj\Debug\Đèn giao thông.exe
+D:\c#\Đèn giao thông\obj\Debug\Đèn giao thông.pdb
